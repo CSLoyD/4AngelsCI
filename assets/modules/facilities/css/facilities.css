@@ -1,0 +1,17 @@
+.schedTitle {
+    margin: 10px!important;
+}
+.fc-daygrid-day-events .fc-event{
+    background: #2095db
+}
+.fc-daygrid-dot-event:hover{
+    background: rgba(17, 116, 164, 0.83)!important;
+    cursor: pointer!important;
+}
+.fc-theme-standard .fc-scrollgrid{
+    border: 2px solid var(--fc-border-color,#ddd)!important;
+}
+.fc-daygrid-day-number{
+    margin-right: 10px;
+}
+

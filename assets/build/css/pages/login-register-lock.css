@@ -1,0 +1,104 @@
+/*
+Template Name: Admin pro Admin
+Author: Wrappixel
+Email: niravjoshi87@gmail.com
+File: scss
+*/
+/*
+Template Name: Admin Pro Admin
+Author: Wrappixel
+Email: niravjoshi87@gmail.com
+File: scss
+*/
+/*Theme Colors*/
+/*bootstrap Color*/
+/*Light colors*/
+/*Normal Color*/
+/*Extra Variable*/
+/*******************
+Login register and recover password Page
+******************/
+.login{
+    padding: 8% 0;
+    position: fixed;
+    text-align: center
+}
+.login .login-box{
+    max-width: 430px;
+    background: transparent;
+}
+.login .login-box img{
+  max-width: 100%;
+}
+.login form input , .login form button{
+  border-radius: 50px !important;
+  /* text-align: center; */
+  min-height: 46px !important;
+  border: 1px solid #808080;
+}
+.login form input{
+  padding-left: 40px;
+}
+.username:before{
+    font-family: 'FontAwesome';
+    position: relative;
+    left: 18px;
+    float: left;
+    content: "\2709";
+    top: 33px;
+}
+.password:before {
+    font-family: 'FontAwesome';
+    position: relative;
+    left: 18px;
+    float: left;
+    content: "\26BF";
+    top: 33px;
+}
+.login-register {
+  height: 100%;
+  width: 100%;
+  /* padding: 10% 0; */
+  position: fixed;
+  overflow: hidden;
+  background-image: radial-gradient(circle, transparent 0%, #111 90%), url(../../images/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+.login-register .card-header{
+     text-align: center;
+}
+.login-register .card-header img{
+    max-width: 100%
+}
+form .form-group{
+  margin-bottom: unset;
+}
+.login-box {
+  width: 60%;
+  margin: 0 auto; }
+  .login-box .footer {
+    width: 100%;
+    left: 0px;
+    right: 0px; }
+  .login-box .social {
+    display: block;
+    margin-bottom: 30px; }
+
+#recoverform {
+  display: none; }
+
+.login-sidebar {
+  padding: 0px;
+  margin-top: 0px; }
+  .login-sidebar .login-box {
+    right: 0px;
+    position: absolute;
+    height: 100%; }
+.btn-container{
+  margin-top: 20px;
+}
+.text-danger{
+  font-weight: 700;
+}

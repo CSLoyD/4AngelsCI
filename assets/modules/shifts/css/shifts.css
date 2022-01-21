@@ -1,0 +1,14 @@
+.imageDiv img {
+    height: 150px;
+    width: 150px;
+    background:#f3feff;
+}
+
+.tableProfile {
+    height: 50px;
+    width: 50px;
+    background:#00000082;
+}
+.viewDocBtn{
+    padding: 0.25rem 0.66rem;
+}
